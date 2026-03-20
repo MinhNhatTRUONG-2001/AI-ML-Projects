@@ -1,0 +1,3 @@
+openrouter=<add_your_api_key_here>
+groq=<add_your_api_key_here>
+ollama=<add_your_api_key_here>
